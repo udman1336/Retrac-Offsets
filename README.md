@@ -5,6 +5,11 @@
 
 ### Offsets
 ```yaml
+GWorld -> 0x92b3420
+GObjects -> 0x9178f08
+GNames -> 0x914cbc0
+ProcessEvent -> 0x43
+AppendString -> 0x34fd1b0
 ACharacter::Mesh -> 0x280
 AActor::RootComponent -> 0x130
 AActor::CustomTimeDilation -> 0x98
