@@ -1,6 +1,6 @@
-# Fortnite Offsets
+# Retrac Offsets
 
-#### Latest Fortnite Offsets Always Updated.
+#### Latest Retrac Offsets Always Updated.
 ##### **More Offsets Will Be Dumped After I Completely Finish My Dumper.**
 
 ### Offsets
